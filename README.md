@@ -14,11 +14,11 @@ Ingeniero en Sistemas Computacionales con experiencia en:
 - Visual Studio Forms
 - ARM Assembly y simuladores de red (Mininet)
 
-## 📚 Proyectos destacados
+## Proyectos destacados
 - Gestor de biblioteca con login y conexión SQL
 - Juegos cooperativos 2D en PyGame
 - Documentación exhaustiva de prácticas de emulación (LEDs, flags, registros)
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 [![The Git City Stats](https://www.thegitcity.com/api/v1/user/andresramirez9/github-stats.svg)](https://www.thegitcity.com/dev/andresramirez9)
